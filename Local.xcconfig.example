@@ -1,0 +1,4 @@
+// Local developer overrides — copy this file to Local.xcconfig and fill in your values.
+// Find your Team ID at: developer.apple.com/account → Membership → Team ID
+
+DEVELOPMENT_TEAM = YOUR_TEAM_ID_HERE
