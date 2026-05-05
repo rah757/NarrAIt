@@ -6,6 +6,8 @@ AI-powered assistive companion for disabled users navigating computers. Hold a k
 
 3rd place winner - 3x Nvidia Jetson Orin Nano
 
+[Link to Devpost and Video](https://devpost.com/software/celsius?_gl=1*1r4wt7d*_gcl_au*MTU4NDQ4Mjg5NC4xNzc3NDMwNDQx*_ga*MTE2MTY0MjE3Ni4xNzc3NDMwNDQx*_ga_0YHJK3Y10M*czE3Nzc4MzcwMjIkbzgkZzEkdDE3Nzc4MzgzNzckajU5JGwwJGgw)
+
 ---
 
 ## Quick Start
